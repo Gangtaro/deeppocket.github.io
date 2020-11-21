@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deep Pocket of DATA SCIENCE"
+title                    : "halo :D"
 title_separator          : "-"
 subtitle                 : "World seeing trough the data"# site tagline that appears below site title in masthead
 name                     : "gangtaro"
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:igt0530@gmail.com"
+      # url: "mailto:igt0530@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
