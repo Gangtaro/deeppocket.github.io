@@ -11,16 +11,16 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Halo :D"
+title                    : "halo :D_A"
 title_separator          : "-"
-subtitle                 : "World seeing trough the data" # site tagline that appears below site title in masthead
+subtitle                 : "DATA and ART" # site tagline that appears below site title in masthead
 name                     : "gangtaro"
-description              : "I <3 people come in"
+description              : "I <3 data and be an artist in the World seeing trough the data"
 url                      : https://gangtaro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
