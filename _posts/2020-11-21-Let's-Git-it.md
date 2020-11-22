@@ -2,13 +2,11 @@
 ---
 date: 2020-11-21 18:00:00 -0400
 title: "Halo, It's new start"
-
 categories:
   - blog
 tags: 
   - jekyll
   - update
-
 # 목차
 toc: true  
 toc_sticky: true 
