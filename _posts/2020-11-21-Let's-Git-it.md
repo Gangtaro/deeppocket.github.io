@@ -1,4 +1,3 @@
-# Front Matter
 ---
 date: 2020-11-21 18:00:00 -0400
 title: "Halo, It's new start"
@@ -10,8 +9,6 @@ tags:
 toc: true  
 toc_sticky: true 
 ---
-
-
 
 # Hi
 My name is gangtaro, Let's go to the data world together
