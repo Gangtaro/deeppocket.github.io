@@ -1,3 +1,3 @@
 # gangtaro.github.io
-- 2020.11.22
- - lauch the blog
+## 2020.11.22
+- lauch the blog
