@@ -7,7 +7,6 @@ categories:
 tags: 
   - jekyll
   - update
-# 목차
 toc: true  
 toc_sticky: true 
 ---
