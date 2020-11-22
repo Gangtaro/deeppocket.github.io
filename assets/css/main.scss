@@ -8,5 +8,9 @@
 @import "minimal-mistakes"; // main partials
 
 
-// Font 변경
-# @import url('https://fonts.googleapis.com/css?family=Fira Code');
+// list title link remove underline
+.archive a {
+    color: inherit;
+    text-decoration: none;
+}
+
