@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "gangtaro"
+  name             : # "gangtaro"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Surprisingly, it's me"
+  bio              : "Do that thang!"
   location         : "Busan, Korea"
   email            : "igt0530@gmail.com"
   links:
